@@ -7,7 +7,6 @@ Apple is blocking a lot of non-ascii characters from being used, like the checkm
 After doing a quick test, here are some that works:
 
 ```
-⌘
 〉
 ⎕
 #
@@ -17,6 +16,7 @@ After doing a quick test, here are some that works:
 ►
 ⁕
 ◆
+∞
 ```
 
 PR welcome for additional characters.
