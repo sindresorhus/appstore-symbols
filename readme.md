@@ -8,7 +8,6 @@ After doing a quick test, here are some that works:
 
 ```
 〉
-⎕
 #
 ●
 ○
