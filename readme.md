@@ -16,6 +16,7 @@ After doing a quick test, here are some that works:
 ⁕
 ◆
 ∞
+⌘
 ```
 
 PR welcome for additional characters.
